@@ -1,0 +1,14 @@
+C:\Users\ginov\OneDrive\Escritorio\Estructura de datos\Examen_Segundo_parcial\bin\Debug\net9.0\Examen_Segundo_parcial.exe
+C:\Users\ginov\OneDrive\Escritorio\Estructura de datos\Examen_Segundo_parcial\bin\Debug\net9.0\Examen_Segundo_parcial.deps.json
+C:\Users\ginov\OneDrive\Escritorio\Estructura de datos\Examen_Segundo_parcial\bin\Debug\net9.0\Examen_Segundo_parcial.runtimeconfig.json
+C:\Users\ginov\OneDrive\Escritorio\Estructura de datos\Examen_Segundo_parcial\bin\Debug\net9.0\Examen_Segundo_parcial.dll
+C:\Users\ginov\OneDrive\Escritorio\Estructura de datos\Examen_Segundo_parcial\bin\Debug\net9.0\Examen_Segundo_parcial.pdb
+C:\Users\ginov\OneDrive\Escritorio\Estructura de datos\Examen_Segundo_parcial\obj\Debug\net9.0\Examen_Segundo_parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginov\OneDrive\Escritorio\Estructura de datos\Examen_Segundo_parcial\obj\Debug\net9.0\Examen_Segundo_parcial.AssemblyInfoInputs.cache
+C:\Users\ginov\OneDrive\Escritorio\Estructura de datos\Examen_Segundo_parcial\obj\Debug\net9.0\Examen_Segundo_parcial.AssemblyInfo.cs
+C:\Users\ginov\OneDrive\Escritorio\Estructura de datos\Examen_Segundo_parcial\obj\Debug\net9.0\Examen_Segundo_parcial.csproj.CoreCompileInputs.cache
+C:\Users\ginov\OneDrive\Escritorio\Estructura de datos\Examen_Segundo_parcial\obj\Debug\net9.0\Examen_Segundo_parcial.dll
+C:\Users\ginov\OneDrive\Escritorio\Estructura de datos\Examen_Segundo_parcial\obj\Debug\net9.0\refint\Examen_Segundo_parcial.dll
+C:\Users\ginov\OneDrive\Escritorio\Estructura de datos\Examen_Segundo_parcial\obj\Debug\net9.0\Examen_Segundo_parcial.pdb
+C:\Users\ginov\OneDrive\Escritorio\Estructura de datos\Examen_Segundo_parcial\obj\Debug\net9.0\Examen_Segundo_parcial.genruntimeconfig.cache
+C:\Users\ginov\OneDrive\Escritorio\Estructura de datos\Examen_Segundo_parcial\obj\Debug\net9.0\ref\Examen_Segundo_parcial.dll
