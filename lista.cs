@@ -15,7 +15,7 @@ public class Lista
     public void AgregarEstudiante(string nombre, float nota)
     {
         Estudiante estudiante = new Estudiante(nombre, nota);
-        head = estudiante;
+
         if (head == null)
         {
             head = estudiante;

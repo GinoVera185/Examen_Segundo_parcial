@@ -12,3 +12,4 @@ C:\Users\ginov\OneDrive\Escritorio\Estructura de datos\Examen_Segundo_parcial\ob
 C:\Users\ginov\OneDrive\Escritorio\Estructura de datos\Examen_Segundo_parcial\obj\Debug\net9.0\Examen_Segundo_parcial.pdb
 C:\Users\ginov\OneDrive\Escritorio\Estructura de datos\Examen_Segundo_parcial\obj\Debug\net9.0\Examen_Segundo_parcial.genruntimeconfig.cache
 C:\Users\ginov\OneDrive\Escritorio\Estructura de datos\Examen_Segundo_parcial\obj\Debug\net9.0\ref\Examen_Segundo_parcial.dll
+C:\Users\ginov\OneDrive\Escritorio\Estructura de datos\Examen_Segundo_parcial\obj\Debug\net9.0\Examen_Segundo_parcial.sourcelink.json
