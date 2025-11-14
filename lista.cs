@@ -55,6 +55,11 @@ public class Lista
         }
     }
 
+    public Estudiante ObtenerHead()
+    {
+        return head;
+    }
+
     public void PrintEstudiantes()
     {
         Estudiante aux = head;

@@ -18,4 +18,5 @@ public class Estudiante
         nota = not;
         siguiente = null;
     }
+
 }
